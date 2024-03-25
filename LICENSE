@@ -1,6 +1,9 @@
 MIT License
 
-Copyright © 2024 Charles Forsyth (charles.forsyth@gmail.com)
+Copyright © 2000 Frans Kaashoek, Frank Dabek, Massachusetts Institute of Technology [C++]
+Copyright © 2001 Frans Kaashoek, Frank Dabek, Joshua Cates, Massachusetts Institute of Technology [C++]
+Copyright © 2006 Charles Forsyth (charles.forsyth@gmail.com), Vita Nuova Holdings Limited [Limbo]
+Copyright © 2024 Charles Forsyth (charles.forsyth@gmail.com) [Go]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
