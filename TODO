@@ -1,0 +1,3 @@
+- zp_test.go
+	could use fuzzing?
+	+ need to check GF axioms

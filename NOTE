@@ -1,0 +1,17 @@
+This is a Go version of an IDA implementation I did in Limbo for Inferno,
+without significant change, mainly adding some tests.
+That IDA software was originally based on a C++ version included with
+MIT's sfsnet software, hence their copyrights remain.
+sfsnet included implementations of Chord, another protocol
+I was interested in at the time, which is how I came across sfsnet.
+(MIT's sfsnet should not be confused with the current
+SfSNet learning network software on github.)
+When I did the 2006 Limbo version, I worked through and revised the code
+with reference to Rabin's paper. Converting the Limbo code to Go,
+the main additions were tests and error-handling.
+
+There are newer IDA algorithms that I might implement in due course,
+but still, this is simple and effective if the files aren't vast.
+
+Charles Forsyth
+23 March 2024
